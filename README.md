@@ -1,7 +1,7 @@
--👋 Hi, I’m Harsha D M
-👀 I’m interested in web development and Data Structures.
-💞️ I’m looking to collaborate on web development and design.
-📫 reach me through mail- [harshadm2003@gmail.com] or through LinkedIn- https://www.linkedin.com/in/harsha-d-manjegowda.
+👋 Hi, I’m Harsha D M                       
+👀 I’m interested in web development and Data Structures.                     
+💞️ I’m looking to collaborate on web development and design.                                        
+📫 reach me through mail- [harshadm2003@gmail.com] or through LinkedIn- https://www.linkedin.com/in/harsha-d-manjegowda.                         
 
 <!--
 **alphaharsha/alphaharsha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
